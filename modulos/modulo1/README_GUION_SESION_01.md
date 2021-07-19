@@ -23,8 +23,11 @@ Entre todos los Habilitadores del Programa VEA, se debe definir equipos, de meno
 
 ##### Modulo 01:
 > HABIS de la sesión 1: Cristian P., Sara M. y Patricia M.
+> 
 > HABIS de la sesión 2: Sara M., Natalia O. y Wbeimar V.
+> 
 > HABIS de la sesión 3: Cristian P., Karine F. y Sughey S.
+> 
 > HABIS de la sesión 4: Gina Q., Sara M. y Patricia M.
 
 ### Paso 2: Elegir herramientas
