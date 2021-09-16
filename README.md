@@ -87,3 +87,5 @@ A continuación se define los temas principales:
 ## LA DINÁMICA DEL PROGRAMA ES:
 
 Se va a utilizar la metodología de las 4C’s (Conexión (C1), Concepto (C2), Concreción (C3) y Conclusión (C4)), en cada uno de los temas principales, con el fin de llevar a cabo el impacto que queremos lograr en las personas.
+
+By crpr1988@gmail.com
